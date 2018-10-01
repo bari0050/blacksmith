@@ -1,3 +1,8 @@
+<?php
+  require 'settings.php';
+  require 'blacksmith.php';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
